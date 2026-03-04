@@ -1,0 +1,101 @@
+EmployeeID,Name,Age,Gender,Department,Role,JoiningDate,MonthlySalary_INR,Skill_Python,Skill_Java,Skill_SQL,Skill_JavaScript,Skill_CSharp,Lang_English,Lang_French,Lang_Hindi,ManagerFeedback,PerformanceRating,LearningAttitude,SkillsUpgradedLastYear,TrainingHoursLastYear,ProjectsCompleted,Certifications,LastPromotionMonthsAgo,OverTime,WorkLifeBalance,JobSatisfaction,EnvironmentSatisfaction,AbsenteeismDays,TeamCollaborationScore,Attrition_Risk_3Months
+E001,Parul,37,Female,Project Management,Project Manager,2019-05-21,91949,0,0,1,1,0,1,0,1,5.4,3.6,5.9,1,63,3,1,5,Yes,3,4,2,4,7.1,No
+E002,Akash,33,Male,Development,Mid Developer,2019-03-22,54544,0,1,0,1,0,1,0,1,5.5,1.2,1.0,0,10,9,0,4,No,3,2,4,6,8.2,No
+E003,Yash,30,Female,Testing,Senior Tester,2019-12-22,97744,0,0,1,0,0,1,0,1,10.0,3.9,7.6,4,67,7,1,2,Yes,3,4,3,3,5.1,No
+E004,Divya,37,Male,Development,Senior Developer,2019-09-03,125543,1,0,1,0,1,1,0,1,9.4,5.0,1.2,0,13,4,0,3,No,4,2,2,8,5.5,No
+E005,Rekha,43,Male,Development,Senior Developer,2019-04-16,116187,1,1,1,0,0,0,0,1,7.1,4.9,8.8,4,60,10,2,4,No,4,4,4,1,7.0,No
+E006,Vishal,44,Male,Development,Mid Developer,2019-11-23,57239,0,0,0,0,0,1,0,1,2.1,3.6,8.0,2,56,13,2,4,Yes,3,3,2,0,6.7,Yes
+E007,Diya,43,Male,UI/UX,UI/UX Designer,2019-05-25,59489,0,0,1,0,0,0,0,0,3.7,2.2,9.3,5,78,5,2,3,No,3,2,3,2,5.6,No
+E008,Megha,24,Female,Development,Junior Developer,2019-04-11,41633,1,1,0,0,0,0,0,0,7.4,3.6,7.3,3,68,10,2,3,Yes,2,2,2,10,10.0,Yes
+E009,Dhruv,28,Female,Testing,Junior Tester,2019-05-12,35357,0,1,1,0,0,1,1,1,2.7,3.9,6.1,0,61,8,1,11,Yes,1,4,3,4,6.8,Yes
+E010,Aarav,27,Male,Development,Mid Developer,2019-07-10,78538,1,1,0,1,1,1,0,1,7.0,3.0,5.9,0,36,7,1,0,No,3,3,3,0,5.8,No
+E011,Nitin,44,Female,Testing,Senior Tester,2019-09-16,92049,1,0,0,0,0,1,0,1,6.1,4.0,4.7,1,42,11,0,6,No,4,3,2,3,6.7,No
+E012,Ravi,34,Male,DevOps,DevOps Engineer,2019-07-08,97131,0,0,0,0,1,1,1,1,6.7,4.6,7.8,4,76,12,2,2,No,4,2,4,6,6.5,No
+E013,Dev,40,Female,Administration,Admin Executive,2019-05-06,30176,0,0,0,1,0,1,0,1,6.6,2.4,7.2,4,45,4,0,2,No,2,4,3,8,6.8,No
+E014,Vikram,23,Male,Testing,Junior Tester,2019-10-12,42461,0,1,1,1,0,1,0,1,6.7,2.2,7.0,0,73,9,0,11,No,3,3,2,4,4.1,No
+E015,Hemant,31,Male,Testing,Senior Tester,2019-10-24,68427,0,1,1,0,0,0,0,1,7.3,4.3,4.4,0,54,10,0,3,Yes,3,4,2,4,8.4,No
+E016,Arjun,48,Male,Project Management,Project Manager,2019-07-21,111348,0,0,0,0,0,1,0,1,5.7,3.6,10.0,3,111,5,2,1,No,2,2,2,6,8.5,No
+E017,Jay,28,Male,Development,Junior Developer,2019-10-08,52613,1,0,1,0,0,1,0,1,5.2,4.1,8.6,3,71,12,3,0,No,3,3,1,0,8.7,No
+E018,Neil,23,Male,Development,Mid Developer,2019-05-26,74285,1,0,1,0,0,1,0,1,7.4,3.7,3.6,0,31,7,0,0,No,4,3,3,3,7.0,No
+E019,Ritvik,42,Male,Development,Mid Developer,2019-03-04,87626,0,0,1,0,0,1,0,1,7.9,2.7,4.8,2,48,4,0,5,Yes,2,2,4,6,7.5,No
+E020,Amit,51,Male,Development,Mid Developer,2019-07-26,72928,1,0,1,1,0,1,0,1,4.3,3.6,7.7,5,71,7,3,10,Yes,1,3,3,4,5.2,Yes
+E021,Tushar,51,Male,Testing,Senior Tester,2019-11-08,79198,0,0,0,1,1,0,0,1,7.9,2.7,4.2,2,47,4,0,10,No,3,1,2,5,7.7,No
+E022,Seema,24,Female,Development,Junior Developer,2019-11-26,44758,1,0,1,1,0,1,0,1,6.9,3.0,7.5,4,69,9,2,6,No,4,3,1,3,6.9,No
+E023,Aadhya,36,Male,Administration,HR Executive,2019-02-18,45254,0,0,0,0,0,1,0,1,6.8,3.7,7.7,3,60,2,2,10,No,3,3,2,3,5.8,No
+E024,Nisha,30,Male,Development,Junior Developer,2019-12-05,36470,1,0,0,0,1,0,0,1,6.8,2.9,1.0,0,22,7,0,10,Yes,1,1,3,9,7.8,Yes
+E025,Sunita,26,Female,Administration,HR Executive,2019-09-09,31252,0,0,0,1,0,1,0,1,5.8,5.0,6.6,2,39,1,1,4,No,3,3,4,3,7.9,No
+E026,Rohan,49,Female,Development,Mid Developer,2019-10-04,89764,1,0,1,0,0,1,0,1,7.0,1.5,5.7,2,45,5,0,7,Yes,2,3,2,9,6.6,Yes
+E027,Sneha,50,Male,Development,Mid Developer,2019-10-27,62173,1,1,1,0,0,1,0,0,7.6,2.7,5.0,0,58,5,0,5,Yes,2,1,3,10,7.2,Yes
+E028,Naveen,37,Male,Administration,Admin Executive,2019-12-22,24673,0,1,1,0,1,1,0,0,6.8,2.4,6.4,1,36,1,1,3,No,4,4,4,0,5.0,No
+E029,Ishaan,40,Female,Project Management,Scrum Master,2019-01-17,86698,0,0,0,0,0,1,0,1,7.4,2.6,7.1,2,48,5,2,4,No,2,4,3,5,8.4,No
+E030,Parth,25,Male,Administration,HR Executive,2019-06-09,50914,0,0,1,0,0,0,0,1,8.3,2.6,7.1,3,64,4,0,7,No,4,3,4,4,5.2,No
+E031,Kabir,51,Female,Testing,Senior Tester,2019-07-01,75781,0,1,0,0,0,1,0,1,4.7,2.5,5.1,3,45,10,1,2,No,1,1,3,7,5.4,Yes
+E032,Shruti,38,Female,UI/UX,UI/UX Designer,2019-08-21,58051,1,0,0,1,0,1,0,1,8.2,3.9,7.1,4,46,10,2,2,No,3,4,3,4,6.6,No
+E033,Sonal,51,Male,Development,Senior Developer,2019-10-20,86949,1,0,0,1,0,1,1,1,8.6,3.2,5.9,1,42,3,0,10,No,1,3,3,2,8.2,No
+E034,Kavya,33,Male,Project Management,Scrum Master,2019-09-13,68017,0,0,1,0,0,1,0,1,4.5,3.3,5.3,3,28,2,1,3,No,3,2,3,2,8.2,No
+E035,Manoj,46,Female,Testing,Senior Tester,2019-02-16,66941,0,0,0,1,0,1,0,1,9.4,3.3,3.2,1,37,6,1,0,No,3,3,2,1,6.5,No
+E036,Reyansh,51,Male,DevOps,DevOps Engineer,2019-11-13,85934,1,0,1,0,0,1,0,1,5.8,2.6,2.7,0,18,6,1,8,No,3,3,2,4,7.7,No
+E037,Kiran,50,Male,Project Management,Project Manager,2019-10-14,93386,0,0,0,1,1,1,1,1,6.0,4.7,3.1,0,46,7,0,4,No,2,3,2,5,4.0,No
+E038,Jyoti,35,Female,Administration,Admin Executive,2019-02-03,30209,0,0,1,0,0,1,0,0,5.6,4.0,6.4,1,52,2,2,7,No,3,3,3,4,5.4,No
+E039,Rahul,25,Male,Testing,Junior Tester,2019-05-06,42715,0,1,1,1,1,1,0,1,7.0,1.5,6.6,0,50,10,2,9,No,1,3,2,3,5.5,No
+E040,Harsh,27,Female,Development,Mid Developer,2019-05-18,78920,1,1,1,0,1,1,0,1,5.1,1.4,3.8,2,26,9,1,5,No,4,4,4,4,8.4,No
+E041,Komal,24,Female,Project Management,Scrum Master,2019-06-19,91703,0,1,1,0,0,1,0,1,8.1,4.1,8.1,3,61,6,1,0,Yes,4,2,4,6,7.5,No
+E042,Deepak,31,Female,Development,Junior Developer,2019-03-05,34550,1,0,1,0,0,1,0,1,6.3,2.7,8.5,4,69,9,1,5,No,3,3,3,1,6.8,No
+E043,Ayaan,30,Female,Development,Mid Developer,2019-08-15,54637,0,0,1,1,0,1,0,1,5.8,1.7,4.6,0,66,3,0,8,No,3,4,2,0,6.9,No
+E044,Dinesh,26,Female,Development,Mid Developer,2019-01-25,54854,0,1,0,0,0,1,0,1,7.9,4.1,3.3,0,22,3,1,4,Yes,2,3,4,5,8.9,No
+E045,Isha,27,Female,Development,Junior Developer,2019-06-02,44561,0,0,1,0,1,0,0,1,5.9,3.4,5.4,1,39,10,1,2,No,1,3,4,7,6.2,No
+E046,Sahil,50,Male,Administration,Admin Executive,2019-04-10,44114,0,0,1,0,0,1,0,1,8.2,3.4,7.5,2,60,5,0,2,No,3,3,4,1,4.5,No
+E047,Tanya,38,Male,Administration,HR Executive,2019-01-24,40320,0,1,0,0,0,1,0,1,8.3,3.9,6.9,1,68,5,1,9,No,4,3,2,2,8.1,No
+E048,Anika,27,Female,Development,Junior Developer,2019-07-18,43564,1,1,0,1,1,0,0,1,4.1,2.0,5.0,2,22,4,0,2,Yes,2,4,3,2,6.8,No
+E049,Simran,40,Female,Development,Senior Developer,2019-09-27,119811,0,1,0,0,0,1,0,1,10.0,2.2,8.8,3,75,14,2,8,Yes,1,3,2,4,7.9,Yes
+E050,Anirudh,34,Female,Testing,Senior Tester,2019-04-13,79856,0,1,0,1,0,0,0,1,5.4,5.0,8.5,3,58,11,4,0,Yes,3,4,2,0,6.4,No
+E051,Sara,22,Female,Testing,Junior Tester,2019-04-05,46833,0,0,1,0,0,0,0,1,8.6,1.9,5.3,1,49,10,1,3,No,3,1,4,5,5.2,No
+E052,Vihaan,22,Female,Development,Mid Developer,2019-06-23,69963,0,1,0,1,0,1,0,1,10.0,2.1,5.3,0,36,9,0,12,Yes,3,1,3,7,7.1,Yes
+E053,Kunal,41,Male,DevOps,DevOps Engineer,2019-12-24,96932,1,0,0,0,0,0,0,1,8.1,2.3,4.6,0,9,8,1,6,No,3,3,3,3,6.5,No
+E054,Tarun,37,Male,Development,Senior Developer,2019-03-01,94388,1,0,0,0,0,1,0,1,4.1,5.0,4.8,1,42,3,0,3,No,3,2,4,9,6.8,No
+E055,Krishna,26,Male,Testing,Junior Tester,2019-12-22,30569,0,0,1,0,0,1,0,1,8.4,3.6,8.7,2,73,2,1,10,No,2,2,3,13,8.9,No
+E056,Raj,44,Male,DevOps,DevOps Engineer,2019-06-01,64300,0,0,0,1,1,1,0,1,10.0,4.1,6.7,1,46,4,2,2,No,2,2,3,8,4.9,No
+E057,Sai,26,Male,Development,Junior Developer,2019-07-18,31269,1,0,0,1,0,0,0,1,6.0,3.4,8.6,3,61,8,0,6,Yes,4,2,3,3,6.9,No
+E058,Bhavna,24,Male,Development,Mid Developer,2019-11-15,86586,1,0,0,0,0,1,0,1,6.4,2.7,8.1,3,49,8,1,8,No,2,1,4,14,5.3,Yes
+E059,Gaurav,39,Male,Development,Mid Developer,2019-10-17,62015,0,1,1,0,1,1,0,1,4.4,3.8,9.2,2,82,4,4,11,Yes,4,4,1,0,2.6,No
+E060,Usha,36,Female,Development,Senior Developer,2019-10-11,125002,1,0,1,0,0,1,1,1,8.6,2.3,3.7,0,40,3,0,2,No,3,2,4,5,6.4,No
+E061,Ankit,33,Male,Development,Senior Developer,2019-03-21,86254,1,0,1,1,0,1,0,1,10.0,2.7,6.6,3,42,12,0,3,No,2,3,4,8,6.5,No
+E062,Ramesh,43,Female,Project Management,Scrum Master,2019-07-26,77144,1,0,0,1,0,1,0,1,7.8,3.9,1.5,1,5,5,1,7,No,2,4,2,5,7.4,No
+E063,Mohit,47,Male,Development,Mid Developer,2019-03-25,74214,1,1,0,0,0,1,0,1,10.0,2.0,3.2,0,24,7,0,5,Yes,1,4,3,9,6.2,No
+E064,Swati,27,Male,Development,Junior Developer,2019-02-22,32350,1,1,0,0,1,1,0,1,6.6,3.0,6.7,0,80,4,2,4,No,4,1,4,8,4.3,No
+E065,Pranav,29,Male,Administration,Admin Executive,2019-12-27,35183,1,0,0,0,0,1,0,1,3.6,3.1,7.6,5,67,6,2,12,No,3,4,3,0,5.3,No
+E066,Madhu,35,Female,Development,Mid Developer,2019-10-27,56238,1,0,0,1,0,0,1,1,6.8,2.7,5.6,2,33,11,2,3,No,3,3,4,3,8.5,No
+E067,Neha,45,Male,Development,Mid Developer,2019-04-17,56090,1,1,0,0,0,1,0,1,2.2,1.4,4.7,0,41,4,1,7,Yes,2,3,4,3,5.2,Yes
+E068,Lata,25,Female,Testing,Junior Tester,2019-12-13,36637,1,1,1,0,0,1,0,1,5.5,2.6,6.0,3,31,11,1,0,No,2,3,3,5,8.9,No
+E069,Ritu,24,Male,Development,Junior Developer,2019-08-01,47415,0,1,0,0,0,1,0,1,9.4,2.5,9.5,2,84,4,0,8,Yes,2,4,3,4,8.1,No
+E070,Sanjay,28,Male,Development,Junior Developer,2019-09-02,49071,0,0,0,1,0,1,0,1,7.1,3.3,6.0,2,68,5,2,0,No,2,2,4,10,6.0,No
+E071,Ajay,44,Female,Development,Mid Developer,2019-07-09,68271,0,0,0,0,1,1,0,1,6.8,3.3,9.3,3,94,9,2,7,No,4,3,3,4,5.4,No
+E072,Pooja,29,Male,Development,Junior Developer,2019-01-03,28266,0,1,1,0,1,1,0,1,9.8,3.5,8.4,2,76,8,1,3,No,3,3,2,1,8.1,No
+E073,Pankaj,25,Male,Development,Junior Developer,2019-03-01,25666,1,0,0,0,0,0,0,1,6.0,2.6,7.7,5,54,14,0,8,No,3,4,1,2,6.1,No
+E074,Pallavi,23,Male,Development,Junior Developer,2019-12-21,29188,0,1,0,1,1,1,0,1,8.8,3.7,4.4,1,19,10,0,10,Yes,2,4,3,8,4.2,Yes
+E075,Brijesh,23,Male,DevOps,DevOps Engineer,2019-09-16,109823,0,0,1,0,0,1,0,1,6.7,1.8,8.7,3,52,10,0,4,No,3,2,4,7,7.3,No
+E076,Rajesh,31,Female,Development,Junior Developer,2019-12-23,35161,1,0,1,1,0,0,0,1,7.2,1.6,4.8,0,4,8,1,2,No,4,4,4,0,7.1,No
+E077,Om,38,Male,Development,Mid Developer,2019-01-06,78732,0,1,0,0,1,1,0,1,4.3,1.1,3.4,0,35,14,0,8,Yes,2,1,3,6,8.2,Yes
+E078,Suresh,29,Male,Project Management,Scrum Master,2019-09-17,71314,0,1,0,0,0,1,0,1,5.6,2.8,7.8,3,61,3,2,10,No,2,1,2,9,7.0,Yes
+E079,Ashok,48,Male,Development,Senior Developer,2019-08-05,103954,1,1,1,1,0,1,1,1,5.5,3.0,3.0,1,34,12,1,8,Yes,2,1,2,10,5.7,No
+E080,Sumit,22,Female,Testing,Junior Tester,2019-01-05,49340,1,0,1,0,1,1,0,0,6.3,3.9,5.3,1,59,4,0,3,No,2,2,4,11,8.4,Yes
+E081,Tanvi,32,Male,UI/UX,UI/UX Designer,2019-06-06,66508,1,0,1,1,0,0,0,1,7.2,2.6,5.8,2,47,4,1,10,No,1,3,2,9,8.6,No
+E082,Shweta,29,Male,Development,Junior Developer,2019-05-03,46969,1,1,1,0,0,1,0,1,4.5,3.4,10.0,4,81,3,1,3,No,4,1,2,9,6.8,No
+E083,Manish,24,Female,Development,Junior Developer,2019-06-21,37891,1,1,1,1,1,0,0,1,10.0,3.9,5.4,0,37,9,1,11,Yes,3,1,2,6,6.6,Yes
+E084,Meera,31,Female,Testing,Junior Tester,2019-10-23,29777,1,0,1,0,0,1,0,1,7.0,2.6,4.9,1,35,6,1,7,No,4,4,3,0,4.5,No
+E085,Vivaan,34,Male,Development,Senior Developer,2019-12-05,116668,0,0,1,0,0,1,0,1,8.1,4.0,7.3,2,67,6,3,1,No,3,4,4,0,5.6,No
+E086,Varun,31,Male,Development,Mid Developer,2019-05-21,73061,1,0,1,0,1,1,0,1,7.9,4.1,3.3,2,24,12,1,0,No,3,4,2,1,7.6,No
+E087,Ananya,44,Male,UI/UX,UI/UX Designer,2019-06-05,58716,0,0,0,1,0,1,0,1,5.0,2.1,6.7,1,49,5,0,12,No,2,4,3,8,5.7,No
+E088,Aditya,47,Male,Development,Mid Developer,2019-05-10,89749,0,1,1,0,0,0,0,1,6.8,3.2,8.2,2,65,6,0,5,Yes,1,3,3,5,4.3,Yes
+E089,Myra,24,Male,Development,Mid Developer,2019-11-10,89144,1,1,0,1,1,1,0,1,5.2,2.6,6.2,1,60,8,1,8,No,4,1,4,2,10.0,No
+E090,Geeta,39,Male,Project Management,Project Manager,2019-12-19,86907,0,0,1,1,1,0,1,1,9.3,2.1,7.9,3,54,7,0,7,No,3,3,2,3,4.3,No
+E091,Lalit,46,Male,Project Management,Scrum Master,2019-05-17,78777,0,0,0,0,0,0,0,0,4.6,1.8,6.4,2,50,5,1,6,No,4,3,3,2,9.9,No
+E092,Krish,31,Male,Development,Junior Developer,2019-04-21,52693,0,0,0,0,0,1,0,1,6.6,2.1,4.3,1,37,8,0,12,No,4,2,3,6,6.0,No
+E093,Richa,50,Female,Development,Senior Developer,2019-03-14,131745,0,0,1,1,0,1,0,1,8.6,3.8,5.4,2,57,6,1,0,No,2,3,4,5,6.4,No
+E094,Aditi,49,Female,Development,Mid Developer,2019-03-09,76329,1,0,1,1,0,1,0,1,7.2,1.8,5.0,0,37,14,0,11,No,3,1,3,6,5.5,No
+E095,Priya,28,Male,Development,Junior Developer,2019-04-14,39124,1,1,1,1,0,1,0,1,5.5,2.7,6.6,1,44,13,1,2,No,3,2,2,8,7.7,Yes
+E096,Anjali,28,Female,Development,Mid Developer,2019-09-01,66282,0,1,1,0,0,1,0,1,4.9,3.9,7.1,2,50,11,4,10,Yes,1,3,3,5,4.3,No
+E097,Chirag,46,Female,UI/UX,UI/UX Designer,2019-02-19,68624,0,0,0,0,0,0,0,1,5.5,3.6,7.0,2,68,9,0,1,Yes,3,3,4,2,3.7,No
+E098,Aryan,30,Male,Development,Junior Developer,2019-09-13,48321,0,1,0,0,1,1,0,1,7.5,2.7,6.8,3,78,12,0,4,Yes,2,3,1,2,8.9,Yes
+E099,Vinod,34,Male,Development,Mid Developer,2019-01-13,60488,1,1,0,1,0,1,0,1,6.2,4.7,1.0,0,0,14,0,1,Yes,1,3,4,9,5.3,Yes
+E100,Siddharth,41,Male,Administration,Admin Executive,2019-01-04,42574,0,0,0,0,0,1,0,1,7.9,4.9,5.6,1,31,2,2,0,No,3,1,2,4,7.6,No
